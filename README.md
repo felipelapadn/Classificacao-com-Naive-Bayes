@@ -1,1 +1,1 @@
-# Classificacao-com-Naive-Baye
+# Classificacao-com-Naive-Bayes
